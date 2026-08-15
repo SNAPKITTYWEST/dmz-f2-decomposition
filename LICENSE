@@ -1,22 +1,70 @@
-MIT License
+SOVEREIGN SOURCE LICENSE v1.0
+==============================
 
-Copyright (c) 2026 BEL-ESPRIT-D-ACCORD-TRUST-HOLDINGS
-Author: Ahmad Ali Parr
+Business Source License variant.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (C) 2026 Bel Esprit D'Accord Irrevocable Trust (EIN 42-697643)
+Operator: Ahmad Ali Parr
+Web: https://github.com/SNAPKITTYWEST
+Contact: ahmedparr93@gmail.com
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+TERMS
+
+1. NON-PRODUCTION USE
+   Permission is granted, free of charge, to use, copy, study, and modify
+   this software for non-production purposes including research, education,
+   personal projects, and evaluation.
+
+2. PRODUCTION USE
+   Production use requires a commercial license until the Change Date.
+   "Production use" means use in a live system serving external users,
+   a commercial product, a paid service, or any revenue-generating context.
+   Contact ahmedparr93@gmail.com for commercial licensing.
+
+3. CHANGE DATE
+   On 2029-01-01, this license converts automatically to AGPL-3.0.
+   After that date, production use is permitted under AGPL-3.0 terms.
+
+4. PROHIBITED USES (regardless of production or non-production status)
+   - Offering this software as a managed service to third parties
+   - Removing or obscuring copyright, authorship, or trust attribution
+   - Representing this work as your own original mathematics
+   - Using this work to train machine learning models without written consent
+   - Incorporating this work into a patent claim
+
+5. ATTRIBUTION
+   Any permitted use must retain:
+   - This license file
+   - Copyright notice: "Copyright (C) 2026 Bel Esprit D'Accord Irrevocable Trust"
+   - Operator credit: "Ahmad Ali Parr"
+   - Link to source: https://github.com/SNAPKITTYWEST/dmz-f2-decomposition
+
+================================================================================
+
+ABOUT THIS WORK
+
+The DMZ F2 Decomposition is original mathematics by Ahmad Ali Parr:
+
+  Ramanujan black hole entropy reduced to F2 (field with 2 elements).
+  Weil bounds = Riemann Hypothesis for finite fields as a lemma.
+  Entropy <= 0.20 = Weil bound = the same inequality.
+
+This formal Lean 4 proof encodes a result that exists in Ahmad's head
+and in this repository. The mathematics is inseparable from the proof.
+You cannot use one without the other.
+
+Zero sorry. Lean 4 kernel verified.
+
+================================================================================
+
+DISCLAIMER
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM USE OF THIS SOFTWARE.
+
+================================================================================
+
+Omega = TRUST AND CODE
